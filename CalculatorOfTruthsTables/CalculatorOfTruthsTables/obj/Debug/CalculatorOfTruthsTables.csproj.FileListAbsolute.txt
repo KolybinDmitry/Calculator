@@ -1,0 +1,32 @@
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\bin\Debug\CalculatorOfTruthsTables.exe.config
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\bin\Debug\CalculatorOfTruthsTables.exe
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\bin\Debug\CalculatorOfTruthsTables.pdb
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\App.g.cs
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables_MarkupCompile.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables_MarkupCompile.lref
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\MainWindow.baml
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.g.resources
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.Properties.Resources.resources
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.exe
+C:\Users\admin\Documents\Документы\работа\репетиторство\Дмитрий, 2 курс C#\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.pdb
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\bin\Debug\CalculatorOfTruthsTables.exe.config
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\bin\Debug\CalculatorOfTruthsTables.exe
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\bin\Debug\CalculatorOfTruthsTables.pdb
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.csproj.AssemblyReference.cache
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.csproj.SuggestedBindingRedirects.cache
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\MainWindow.g.cs
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\App.g.cs
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables_MarkupCompile.cache
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables_MarkupCompile.lref
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\MainWindow.baml
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.g.resources
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.Properties.Resources.resources
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.csproj.GenerateResource.cache
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.csproj.CoreCompileInputs.cache
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.exe
+C:\Users\m0q\source\repos\CalculatorOfTruthsTables\CalculatorOfTruthsTables\obj\Debug\CalculatorOfTruthsTables.pdb
